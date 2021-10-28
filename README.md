@@ -10,7 +10,6 @@
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
-
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?          logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -24,7 +23,6 @@
 </p>
 
 ### 🧰 Frameworks and libraries
-
 <p>
     <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
@@ -37,7 +35,6 @@
 </p>
 
 ### 🗄️ Databases and cloud hosting
-
 <p>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
@@ -49,7 +46,6 @@
 </p>
 
 ### 💻 Software and tools
-
 <p>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -59,19 +55,6 @@
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 </p>
-
-
-<!-- **shanewas/shanewas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
- -->
-<!-- - 👯 I’m looking to collaborate on ... 
-      - 🤔 I’m looking for help with ...
-      - 💬 Ask me about anything
-      - 📫 How to reach me: ...
-      - 😄 Pronouns: ...
-
--->
 - 🔭 I’m currently working on `discord` bot for a client
 - 🌱 I’m currently learning `GraphQL`
 - ⚡ Fun fact: I love Competitive Gaming(Ex: Valorant, World of Warships), Music, Reading.
