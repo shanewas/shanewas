@@ -55,6 +55,7 @@
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 </p>
+
 - 🔭 I’m currently working on `discord` bot for a client
 - 🌱 I’m currently learning `GraphQL`
 - ⚡ Fun fact: I love Competitive Gaming(Ex: Valorant, World of Warships), Music, Reading.
