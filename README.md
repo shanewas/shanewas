@@ -58,4 +58,4 @@
 
 - 🔭 I’m currently working on `discord` bot for a client
 - 🌱 I’m currently learning `GraphQL`
-- ⚡ Fun fact: I love Competitive Gaming(Ex: Valorant, World of Warships), Music, Reading.
+- ⚡ Fun fact: I love Programming, Competitive Gaming(Ex: Valorant, World of Warships), Music, Reading.
