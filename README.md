@@ -56,6 +56,6 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 </p>
 
-- 🔭 I’m currently working on `discord` bot for a client
+- 🔭 I’m currently working on `Unity3D` project
 - 🌱 I’m currently learning `GraphQL`
 - ⚡ Fun fact: I love Programming, Competitive Gaming(Ex: Valorant, World of Warships), Music, Reading.
