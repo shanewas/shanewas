@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 3rem;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle;">
-  Welcome to the world of Shanewas Ahmed,
+  Welcome to the world of Shanewas,
   where code meets creativity.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle;">
 </h1>
