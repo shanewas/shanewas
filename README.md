@@ -1,5 +1,8 @@
-<h1 align="center" style="background-color: #1f1f1f; color: #ffffff; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" style="vertical-align: middle;"> Step into the world of Shanewas Ahmed, where code meets creativity. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" style="vertical-align: middle;">
+<h1 align="center" style="font-size: 3rem;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle;">
+  Welcome to the world of Shanewas Ahmed,
+  where code meets creativity.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle;">
 </h1>
 
 <p align="center">
