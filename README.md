@@ -41,6 +41,7 @@
 
 <h3 align="center">🗄️ Databases and cloud hosting</h3>
 <p align="center">
+    <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-07405e.svg?logo=mssql&logoColor=white">
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
