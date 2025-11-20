@@ -82,5 +82,5 @@ Link: https://ieeexplore.ieee.org/document/9306649
 ---
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/shanewas  
+- LinkedIn: https://linkedin.com/in/ahmedshanewas  
 - Email: shanewasahmed@gmail.com
