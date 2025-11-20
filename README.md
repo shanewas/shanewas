@@ -57,6 +57,15 @@ Currently working at **SkyCom Corporation (Japan)** as a member of the SDK team.
 
 ---
 
+## 🔖 Patent
+
+**JP 2025-169170 A – ELECTRONIC SIGNATURE SYSTEM USING PUBLIC ELECTRONIC CERTIFICATE, ELECTRONIC SIGNATURE METHOD, AND PROGRAM**  
+Published by the Japan Patent Office (JPO) on **November 12, 2025**.  
+Contributed as an inventor while working at SkyCom Corporation.  
+URL: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-169170/15/en
+
+---
+
 ## 🔍 Research & Publications
 
 ### IEEE Publication (2019)
