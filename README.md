@@ -1,7 +1,7 @@
 <div align="center">
 
 # Shanewas Ahmed
-### Software Engineer · Systems · Cloud · Full-Stack
+### Software Engineer · Systems · Cloud · Full-Stack · Open Source
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedshanewas-0wA66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ahmedshanewas)
 [![Portfolio](https://img.shields.io/badge/Portfolio-shanewas.github.io-000000?style=flat&logo=github)](https://shanewas.github.io)
