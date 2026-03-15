@@ -1,9 +1,9 @@
 <div align="center">
 
 # Shanewas Ahmed
-### Backend Systems Engineer · Patent Holder · IEEE Author
+### Software Engineer · Systems · Cloud · Full-Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedshanewas-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ahmedshanewas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedshanewas-0wA66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ahmedshanewas)
 [![Portfolio](https://img.shields.io/badge/Portfolio-shanewas.github.io-000000?style=flat&logo=github)](https://shanewas.github.io)
 [![Email](https://img.shields.io/badge/Email-shanewasahmed@gmail.com-EA4335?style=flat&logo=gmail)](mailto:shanewasahmed@gmail.com)
 [![Location](https://img.shields.io/badge/Based_in-Miyazaki,_Japan-FF0000?style=flat&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Miyazaki,Japan)
@@ -14,9 +14,9 @@
 
 ## About Me
 
-I'm a backend systems engineer at **SkyCom Corporation** in Japan, building enterprise PDF infrastructure — low-level libraries, REST APIs, Linux deployment pipelines, and cryptographic signature systems used by organizations nationwide.
+I'm a software engineer at SkyCom Corporation in Japan, building enterprise PDF systems, cloud-integrated APIs, and cryptographic signature infrastructure used by organizations nationwide.
 
-Over 10 years of engineering across Bangladesh and Japan, I've shipped production systems at scale, co-founded a startup, led teams, and filed a patent. I care about systems that are correct, fast, and maintainable.
+Over 7 years of engineering across Bangladesh and Japan, I've shipped production systems at scale, co-founded a startup, led teams, and filed a patent. I care about systems that are correct, fast, and maintainable.
 
 ---
 
