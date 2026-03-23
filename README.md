@@ -35,7 +35,7 @@ Over 7 years of engineering across Bangladesh and Japan, I've shipped production
 
 ```
 Languages     C++  ·  C#  ·  Python  ·  JavaScript
-Frameworks    .NET Core  ·  Node.js  ·  ElectronJS  ·  Spring Boot
+Frameworks    .NET Core  ·  Node.js  ·  ElectronJS  ·  ReactJS
 Databases     MySQL  ·  MongoDB  ·  SQLite  ·  PostgreSQL
 DevOps        Docker  ·  Kubernetes  ·  RHEL Linux  ·  Azure  ·  RPM  ·  Bash
 ML / AI       TensorFlow  ·  scikit-learn  ·  NLP  ·  OCR  ·  VGG19  ·  Inception v3
