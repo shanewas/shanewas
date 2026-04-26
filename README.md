@@ -39,7 +39,7 @@ Software engineer at **SkyCom Corporation** in Miyazaki, Japan — building ente
 | | |
 |---|---|
 | 📜 **Patent** | JP 2025-169170 A — Electronic Signature System using Japan's My Number Card (JPO, 2025) |
-| ⬆️ **Promoted** | Grade I (一般１) — SkyCom Corporation, April 2026 |
+| ⬆️ **Promoted** | Software Engineer II → Software Engineer I (一般１) — SkyCom Corporation, April 2026 |
 | 🏦 **Production Scale** | Automation platform deployed to Bank Asia, City Bank, UCB Bank, Eastern Bank |
 | 🔬 **IEEE Publication** | [Alzheimer's prediction via CNN on OCT images](https://ieeexplore.ieee.org/document/9306649) — University of Sydney collaboration |
 | 🥇 **Hackathon** | 1st Place — National Hackathon, IDEB Bangladesh (2014) |
@@ -90,7 +90,7 @@ Software engineer at **SkyCom Corporation** in Miyazaki, Japan — building ente
 
 ## 💼 Experience
 
-### SkyCom Corporation — Software Engineer (Grade I / 一般１) *(2022–Present)*
+### SkyCom Corporation — Software Engineer I *(2022–Present)*
 - Core developer on **SkyPDF** — low-level PDF libraries and tools in C++ and C# on RHEL
 - Designed WebAPI interfaces for document signing, rendering, and conversion on Linux
 - Built RPM packaging and CI/CD deployment pipelines (systemd, Bash, Docker)
