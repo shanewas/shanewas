@@ -3,7 +3,7 @@
 **Software Engineer** at SkyCom Corporation · Miyazaki, Japan
 
 [![Visa](https://img.shields.io/badge/Visa-Japan%20Engineer%20visa-green?style=flat-square&logo=gitlab&logoColor=white)](https://www.immi-moj.go.jp/english/)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Work-7M%2B%20JPY-blue?style=flat-square)](mailto:shanewasahmed@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7M%2B%20JPY-blue?style=flat-square&logo=briefcase&logoColor=white)](mailto:shanewasahmed@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Miyazaki%2C%20Japan-orange?style=flat-square&logo=map&logoColor=white)](https://www.google.com/maps/place/Miyazaki)
 
 ---
