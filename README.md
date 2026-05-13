@@ -2,9 +2,9 @@
 
 **Software Engineer** at SkyCom Corporation · Miyazaki, Japan
 
-[![Visa](https://img.shields.io/badge/Visa-Japan%20Engineer%20visa-green?style=flat-square&logo=bitbucket&logoColor=white)](https://www.immi-moj.go.jp/english/)
+[![Visa](https://img.shields.io/badge/Visa-Japan%20Engineer%20visa-green?style=flat-square&logo=gitlab&logoColor=white)](https://www.immi-moj.go.jp/english/)
 [![Open to Work](https://img.shields.io/badge/Open%20to-Work-7M%2B%20JPY-blue?style=flat-square)](mailto:shanewasahmed@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Miyazaki%2C%20Japan-orange?style=flat-square&logo=pin&logoColor=white)](https://www.google.com/maps/place/Miyazaki)
+[![Location](https://img.shields.io/badge/Location-Miyazaki%2C%20Japan-orange?style=flat-square&logo=map&logoColor=white)](https://www.google.com/maps/place/Miyazaki)
 
 ---
 
@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-shanewas-black?style=flat-square&logo=github)](https://github.com/shanewas) ·
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedshanewas-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ahmedshanewas) ·
-[![Email](https://img.shields.io/badge/Email-shanewasahmed%40gmail.com-red?style=flat-square&logo=gmail)](mailto:shanewasahmed@gmail.com) ·
+[![Email](https://img.shields.io/badge/Email-shanewasahmed%40gmail.com-red?style=flat-square&logo=maildotcom&logoColor=white)](mailto:shanewasahmed@gmail.com) ·
 [![Portfolio](https://img.shields.io/badge/Portfolio-shanewas.github.io-lightgrey?style=flat-square&logo=google-chrome)](https://shanewas.github.io)
 
 ---
