@@ -1,9 +1,9 @@
 # Shanewas Ahmed
 
-**Software Engineer** at SkyCom Corporation · Miyazaki, Japan
+**Backend Systems Engineer** at SkyCom Corporation · Miyazaki, Japan
 
 [![Visa](https://img.shields.io/badge/Visa-Japan%20Engineer%20visa-green?style=flat-square&logo=gitlab&logoColor=white)](https://www.immi-moj.go.jp/english/)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7M%2B%20JPY-blue?style=flat-square&logo=briefcase&logoColor=white)](mailto:shanewasahmed@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Senior%2FLead%20%7C%207M%2B%20JPY-blue?style=flat-square&logo=briefcase&logoColor=white)](mailto:shanewasahmed@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Miyazaki%2C%20Japan-orange?style=flat-square&logo=map&logoColor=white)](https://www.google.com/maps/place/Miyazaki)
 
 ---
@@ -19,9 +19,11 @@
 
 ## About
 
-7+ years of software engineering across Bangladesh and Japan. I build enterprise PDF systems, cryptographic signing infrastructure, and cloud-native APIs on Linux. Currently working on SkyPDF — low-level PDF libraries and tools in C++ and C# on RHEL.
+7+ years building reliable production systems across Bangladesh and Japan. Currently developing low-level PDF infrastructure and cryptographic signing systems (**SkyPDF**) in C++ and C# on RHEL at SkyCom Japan.
 
-**Target:** Senior / Lead roles in Tokyo or remote · 7M+ JPY
+I focus on **agentic workflows**, **AI automation**, and **design-driven development**. I enjoy building systems that can reason, delegate, and operate with minimal human intervention while maintaining production-grade reliability.
+
+**Target:** Senior / Lead Backend, Platform, or ML/Automation roles in Tokyo or remote · 7M+ JPY
 
 ---
 
@@ -29,13 +31,13 @@
 
 **Languages** · C++ · C# · Python · TypeScript · Java · Bash
 
-**Frameworks** · .NET Core · Node.js · ElectronJS · React · FastAPI · NestJS
+**Frameworks** · .NET Core · Node.js · FastAPI · React
 
-**DevOps** · Docker · Kubernetes · AWS · Azure · RHEL · GitHub Actions
+**DevOps & Systems** · Docker · Kubernetes · RHEL · RPM · CI/CD · GitHub Actions
 
-**Databases** · MySQL · PostgreSQL · MongoDB · Redis · SQLite
+**AI & Automation** · Autonomous Agents · Multi-agent Systems · Tool Use · NLP · TensorFlow · PyTorch
 
-**ML / AI** · TensorFlow · scikit-learn · NLP · PyTorch
+**Databases** · PostgreSQL · MySQL · MongoDB · Redis · SQLite
 
 ---
 
@@ -44,10 +46,10 @@
 ### SkyCom Corporation — Software Engineer I
 **Apr 2026 – Present** · Miyazaki, Japan
 
-- Core developer on **SkyPDF** — low-level PDF libraries in C++ and C# on RHEL
-- Designed WebAPI interfaces for document signing, rendering, and conversion on Linux
+- Core developer on **SkyPDF** — low-level PDF libraries and cryptographic signing infrastructure in C++ and C# on RHEL
+- Designed WebAPI interfaces for document signing, rendering, and conversion
 - Built RPM packaging and CI/CD pipelines (systemd, Bash, Docker)
-- Resolved critical API bottleneck → **2x throughput improvement** in production
+- Resolved critical API bottleneck → **2× throughput improvement** in production
 - Filed patent on electronic signature system using Japan's My Number Card ([JP 2025-169170 A](https://www.jpo.go.jp/))
 
 ### SkyCom Corporation — Software Engineer II
@@ -58,46 +60,44 @@
 ### Ferntech Solutions — Software Architect & PM
 **2019 – 2021** · Bangladesh
 
-- Architected **AIW Core** — hyper-automation platform deployed to Bank Asia, City Bank, UCB Bank, Eastern Bank
-- Built automation studio for desktop (ElectronJS) and web, shared core engine
+- Architected **AIW Core** — hyper-automation platform deployed to multiple major banks
+- Built automation studio for desktop (ElectronJS) and web with shared core engine
 - Led 5-person team through full project delivery lifecycle
 
 ### Neonsofts — Co-Founder & Lead Developer
 **2014 – 2017** · Bangladesh
 
 - Co-founded while at BRAC University
-- Delivered 2 ERP systems for retail/manufacturing clients + Unity3D game prototype
+- Delivered ERP systems and Unity3D game prototypes for clients
 
 ---
 
 ## Featured Projects
 
-| Project | Stack | Description |
-|---|---|---|
-| [ATS Resume Analyzer](https://atsresume.duckdns.org/ats/ui) | FastAPI · Python · NLP · React · Docker | ML-powered resume matcher with TF-IDF scoring, skill gap detection, rewrite suggestions |
-| [ValidationEngine](https://www.npmjs.com/package/@shanewas/form-validation) | TypeScript · Node.js | Enterprise form validation engine. Rule-based, dependency-driven, async-capable, EN/JP i18n. 0 dependencies |
-| [PayFlow](http://payflow.shaneaws.com) | Node.js · PostgreSQL · React · Stripe · Docker | Full-stack payment system with Stripe API, JWT auth, webhook verification, refunds |
-| [Figma Design Generator](https://www.figma.com/community/plugin/325302011176432820) | TypeScript · Figma Plugin API | Figma plugin that generates portfolio landing page designs from a structured brief |
-| [TunnelFox](https://github.com/shanewas/TunnelFox) | Python · PyQt6 · Chromium · SSH | Privacy-focused desktop browser routing traffic through SSH SOCKS5 tunnel with dark UI |
-| [POSIX IPC for .NET](https://github.com/shanewas/posix-ipc-dotnet) | C# · .NET 8 · Linux | Lightweight .NET library for System V shared memory and semaphores via P/Invoke |
+| Project | Focus | Description |
+|---------|-------|-------------|
+| **[Hermes Agent](https://github.com/shanewas/hermes-agent)** | Agentic Workflows | Production-grade autonomous AI agent system with tool use, delegation, persistent memory, and multi-agent orchestration |
+| **[ATS Resume Analyzer](https://github.com/shanewas/ats-resume-analyzer)** | AI Automation | ML-powered resume analysis with keyword matching, skill gap detection, and intelligent rewrite suggestions |
+| **[Figma Design Generator](https://github.com/shanewas/figma-design-generator)** | Design-Driven Automation | Generates professional portfolio and landing page designs in Figma from structured briefs |
+| **[SkyPDF](https://github.com/shanewas)** | Systems Design | Low-level PDF library and cryptographic signing infrastructure in C++/C# (current production work) |
 
 ---
 
 ## Achievements
 
 | Achievement | Details |
-|---|---|
+|-------------|---------|
 | 🏅 **Patent** | JP 2025-169170 A — Electronic Signature System using Japan's My Number Card (JPO, 2025) |
 | 📈 **Promotion** | Software Engineer II → Software Engineer I — SkyCom Corporation, April 2026 |
-| 🏦 **Production Scale** | Automation platform deployed to Bank Asia, City Bank, UCB Bank, Eastern Bank |
-| 📄 **IEEE Publication** | Alzheimer's prediction via CNN on OCT retinal images — University of Sydney collaboration |
+| 🏦 **Production Scale** | Automation platform deployed to multiple major banks in Bangladesh |
+| 📄 **IEEE Publication** | Alzheimer's prediction via CNN on OCT retinal images — IEEE, 2019 |
 | 🏆 **Hackathon** | 1st Place — National Hackathon, IDEB Bangladesh (2014) |
 
 ---
 
 ## Research
 
-- **Alzheimer's Disease Prediction Using CNNs on OCT Retinal Images** — IEEE, 2019. Transfer learning with VGG19 and Inception v3.
+- **Alzheimer's Disease Prediction Using CNNs on OCT Retinal Images** — IEEE, 2019
 - **Arduino Crop & Fertilizer Recommendation System** — East West University Journal, 2018
 
 ---
@@ -105,7 +105,7 @@
 ## Education
 
 | Degree | Institution | Period |
-|---|---|---|
+|--------|-------------|--------|
 | BSc Computer Science | BRAC University, Dhaka | 2013 – 2019 |
 | B-JET Advanced Course | University of Miyazaki | 2021 – 2022 |
 | Microsoft Student Partner | Microsoft (MSP) | 2013 – 2016 |
