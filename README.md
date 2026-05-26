@@ -76,10 +76,10 @@ I focus on **agentic workflows**, **AI automation**, and **design-driven develop
 
 | Project | Focus | Description |
 |---------|-------|-------------|
-| **[Hermes Agent](https://github.com/shanewas/hermes-agent)** | Agentic Workflows | Production-grade autonomous AI agent system with tool use, delegation, persistent memory, and multi-agent orchestration |
-| **[ATS Resume Analyzer](https://github.com/shanewas/ats-resume-analyzer)** | AI Automation | ML-powered resume analysis with keyword matching, skill gap detection, and intelligent rewrite suggestions |
-| **[Figma Design Generator](https://github.com/shanewas/figma-design-generator)** | Design-Driven Automation | Generates professional portfolio and landing page designs in Figma from structured briefs |
-| **[SkyPDF](https://github.com/shanewas)** | Systems Design | Low-level PDF library and cryptographic signing infrastructure in C++/C# (current production work) |
+| **[Agentic Stealth Browser](https://github.com/shanewas/agentic-stealth-browser)** | Agentic Automation | **PyPI package** — production-grade stealth browser automation that survives Cloudflare/LinkedIn/Amazon. TLS fingerprinting, human behavior simulation, auto-recovery. |
+| **[Hermes Agent](https://github.com/shanewas/hermes-agent)** | Agentic Workflows | Full-featured autonomous AI agent framework with delegation, persistent memory, cron, multi-agent orchestration, and stealth browser integration |
+| **[ATS Resume Analyzer](https://github.com/shanewas/ats-resume-analyzer)** | AI Automation | ML-powered resume analysis with keyword matching, skill gap detection, and rewrite suggestions |
+| **[JP 2025-169170 A](https://www.jpo.go.jp/)** | Patent | Electronic Signature System using Japan's My Number Card — filed at Japan Patent Office (2025) |
 
 ---
 
