@@ -1,6 +1,6 @@
 ![Shanewas Ahmed — backend systems engineer, Miyazaki, Japan](assets/banner.png)
 
-**Backend systems engineer at 株式会社スカイコム (SkyCom), R&D センター宮崎.** C++, C#, and Linux, mostly below the framework line.
+**Backend systems engineer at 株式会社スカイコム (SkyCom), R&D センター宮崎.** C++, C#, and Linux.
 
 [![Portfolio](https://img.shields.io/badge/portfolio-shanewas.github.io-0ea5e9?style=flat-square)](https://shanewas.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedshanewas-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedshanewas)
