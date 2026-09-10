@@ -53,7 +53,7 @@ Started it while at BRAC University. ERP systems and Unity3D game prototypes for
 
 **Systems** C++ · C# / .NET Core · RHEL · systemd · RPM · P/Invoke · Win32 / COM via ctypes · Docker  
 **Backend** FastAPI · Node.js · PostgreSQL · Redis · SQLite · REST  
-**Automation & AI** Playwright · MCP · autonomous agents · multi-agent orchestration · NLP  
+**Automation & AI** Playwright · MCP · autonomous agents · multi-agent orchestration · TensorFlow / PyTorch · NLP  
 **Also** Python · TypeScript · React · Bash · GitHub Actions
 
 ## Education
