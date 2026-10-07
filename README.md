@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="Shanewas Ahmed, backend systems engineer in Japan. PDF and digital-signature infrastructure in C++ and C#." src="assets/banner-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shanewas/shanewas/main/assets/banner-dark.png">
+  <img alt="Shanewas Ahmed, backend systems engineer in Japan. PDF and digital-signature infrastructure in C++ and C#." src="https://raw.githubusercontent.com/shanewas/shanewas/main/assets/banner-light.png">
 </picture>
 
 **Backend systems engineer in Japan.** I build PDF and digital-signature infrastructure in C++ and C# at SkyCom (株式会社スカイコム), and open-source tools for AI agents in my own time.
